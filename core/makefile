@@ -33,6 +33,10 @@ disk.img: bootloader kernel32
 	@echo
 	@echo ============ All Build Complete ============
 	@echo
+
+# execute real marchine (not exec virtual marchine)
+run:
+	qemu-system-x86_64 -L . -fda ./disk.img -localtime
 	
 clean:
 	make -C 00.bootLoader clean
