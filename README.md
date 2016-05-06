@@ -10,6 +10,10 @@
 [GPL2.0](https://github.com/formfoxk/YUJOO-OS/blob/master/LICENSE) 
 
 ## Development Environment
+Develop Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;vim, qemu, nasm, binutils, gcc</br>
+Develop Machine&nbsp;&nbsp;:&nbsp;&nbsp;Ubuntu 14.04 (Virtual Machine, Create OS image)</br>
+Execute Machine&nbsp;&nbsp;:&nbsp;&nbsp;OS X EI Caapitan(Use qemu, Execute OS image)
 
-## Used OpenSource List
-
+## History
+Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Content</br>
+2016.05.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete Bootloader</br>
