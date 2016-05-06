@@ -12,7 +12,7 @@
 ## Development Environment
 Develop Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;vim, qemu, nasm, binutils, gcc</br>
 Develop Machine&nbsp;&nbsp;:&nbsp;&nbsp;Ubuntu 14.04 (Virtual Machine, Create OS image)</br>
-Execute Machine&nbsp;&nbsp;:&nbsp;&nbsp;OS X EI Caapitan(Use qemu, Execute OS image)
+Execute Machine&nbsp;&nbsp;:&nbsp;&nbsp;OS X EI Caapitan(Real Machine, Use qemu, Execute OS image)
 
 ## History
 Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Content</br>
