@@ -1,12 +1,4 @@
-/**
- *  file    Main.c
- *  date    2008/12/14
- *  author  kkamagui 
- *          Copyright(c)2008 All rights reserved by kkamagui
- *  brief   C 언어로 작성된 커널의 엔트리 포인트 파일
- */
-
-#include "Types.h"
+#include "types.h"
 
 void kPrintString( int iX, int iY, const char* pcString );
 
