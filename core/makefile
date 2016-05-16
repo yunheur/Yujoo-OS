@@ -23,12 +23,12 @@ kernel32:
 	@echo
 	
 	
-disk.img: bootloader kernel32
+disk.img: 00.bootloader/bootloader.bin 01.kernel32/kernel32.bin
 	@echo
 	@echo ============ Disk Image Build Start ============
 	@echo
 	
-	cat 00.bootloader/bootloader.bin 01.kernel32/virtual_os.bin > disk.img
+	./imagemaker $^
 	
 	@echo
 	@echo ============ All Build Complete ============
