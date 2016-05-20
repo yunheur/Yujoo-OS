@@ -81,7 +81,7 @@ int main(int argc, char* argv[])
     //--------------------------------------------------------------------------
     // 디스크 이미지에 커널 정보를 갱신
     //--------------------------------------------------------------------------
-    printf("\n%d , %d",iTargetFd, iKernel32SectorCount);    
+    // printf("\n%d , %d",iTargetFd, iKernel32SectorCount);    
     printf( "[INFO] Start to write kernel information\n" );    
     
     // 부트섹터의 5번째 바이트부터 커널에 대한 정보를 넣음
